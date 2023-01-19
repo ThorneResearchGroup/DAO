@@ -6,7 +6,7 @@
 
     <groupId>tech.tresearchgroup.dao</groupId>
     <artifactId>dao</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -15,7 +15,7 @@
 
     <distributionManagement>
         <repository>
-            <id>TRGRepo</id>
+            <id>TRG</id>
             <url>https://maven.tresearchgroup.tech/releases</url>
         </repository>
     </distributionManagement>
